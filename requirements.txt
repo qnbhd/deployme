@@ -8,7 +8,7 @@ importlib_metadata==5.1.0
 black==22.10.0
 mypy==0.950
 returns==0.19.0
-isort==5.10.1
+isort==5.11.4
 emoji==2.2.0
 packaging==21.3
 nbformat==5.7.0
